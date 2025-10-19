@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritesh-18" alt="ritesh-18" /></a> </p>
 
-- 🔭 I’m currently working on [Event Management System](https://github.com/ritesh-18/Hackathon-Event-Management-Dashboard01)
+- 🔭 I’m currently working on [Event Management System](https://github.com/ritesh-18/Smart-Data-Assistant-AI-Project)
 
 - 🌱 I’m currently learning **Next.js , Advance topics of Backend Developement**
 
-- 👯 I’m looking to collaborate on [Event Management System](https://github.com/ritesh-18/Hackathon-Event-Management-Dashboard01)
+- 👯 I’m looking to collaborate on [Event Management System](https://github.com/ritesh-18/Building_Open_Source_Online_Compiler)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ritesh-18](https://github.com/ritesh-18)
 
-- 💬 Ask me about **javascrip , react , node.js , express.js , core java**
+- 💬 Ask me about **javascript, typescript , react , node.js , express.js , Nest.js,c++, DSA/CPP , core java**
 
 - 📫 How to reach me **rc18.official@gmail.com**
 
